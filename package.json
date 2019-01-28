@@ -1,0 +1,15 @@
+{
+  "name": "clusterforce",
+  "version": "1.0.0",
+  "description": "Demo to use clustering inside Salesforce",
+  "main": "newNames.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Bowerman",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "moment": "^2.24.0"
+  }
+}
