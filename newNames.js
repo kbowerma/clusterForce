@@ -14,7 +14,7 @@ var firstname, lastname, MobilePhone, email;
 console.log('FirstName,LastName,MobilePhone,email')
 
 //Then Loop through and create the rows.
-for ( i=0; i<1000; i++ ){
+for ( i=0; i<896; i++ ){
     firstname = faker.name.firstName();
     lastname = faker.name.lastName();
     MobilePhone = faker.phone.phoneNumberFormat();
